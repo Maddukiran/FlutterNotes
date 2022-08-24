@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Physics",
+        "notes": "Physics is the natural science that studies matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force."
+    },
+    {
+        "id": 2,
+        "title": "Mathematics",
+        "notes": "Mathematics is an area of knowledge that includes such topics as numbers (arithmetic and number theory), formulas and related structures (algebra), shapes and the spaces in which they are contained (geometry) and quantities and their changes."
+    },
+    {
+        "id": 3,
+        "title": "Chemistry",
+        "notes": "Chemistry is the scientific study of the properties and behavior of matter."
+    },
+    {
+        "id": 4,
+        "title": "Geography",
+        "notes": "Geography is the study of places and the relationships between people and their environments. Geographers explore both the physical properties of Earth's surface and the human societies spread across it."
+    },
+    {
+        "id": 5,
+        "title": "Civics",
+        "notes": "Civics is the study of the rights and obligations of citizens in society. The term derives from the Latin word civicus, meaning \"relating to a citizen\"."
+    }
+]
